@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Memory Game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Youtube video: https://youtu.be/yr7XjK4b7Rk
 
 ## Available Scripts
 
